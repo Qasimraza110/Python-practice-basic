@@ -1,5 +1,5 @@
 Name,Survived,Boarded,Class,MWC,Age,Adut_or_Chld,Sex,Paid,Ticket_No,Boat_or_Body,Job,Class_Dept,Class_Full
-"ABBING, Mr Anthony",Dead,Southampton,3,Man,42,Adult,Male,7.55,5547,,Blacksmith,3rd Class Passenger,3
+"ABBING, Mr Anthony",Dead,Southampton,3,Man,42,Adult,Male,7.55,5547,,Blacksmith,3rd Class Passenger,3 
 "ABBOTT, Mr Ernest Owen",Dead,Southampton,Crew,Man,21,Adult,Male,,,,Lounge Pantry Steward,Victualling Crew,V
 "ABBOTT, Mr Eugene Joseph",Dead,Southampton,3,Child,14,Child,Male,20.25,CA2673,,Scholar,3rd Class Passenger,3
 "ABBOTT, Mr Rossmore Edward",Dead,Southampton,3,Man,16,Adult,Male,20.25,CA2673,[190],Jeweller,3rd Class Passenger,3
